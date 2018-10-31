@@ -6,3 +6,5 @@ Node.js
 Express
 Ejs
 Body-Parser
+mongoose
+MongoDB
